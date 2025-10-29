@@ -572,9 +572,8 @@ background: lightblue;
 <body>
   <div class="card" id="card">
     <div class="views">👁️ Views: 328</div>
-
     <div class="logo">
-      <img src="C:\Users\a2z\Desktop\New folder\image\logo.png" alt="Logo">
+      <img src="C:\Users\a2z\Desktop\Okflip_Business_card\logo.png" alt="Logo">
 	<p>Life, Nothing Else</p>
 	<p>सर्वे भवन्तु सुखिनः सर्वे सन्तु निरामयाः</p>
    </div>
