@@ -1,0 +1,2 @@
+git remote set-url origin https://gitlab.com/Okflip_bussiness_card.git
+git remote -v
